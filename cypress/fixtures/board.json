@@ -1,0 +1,68 @@
+[
+    {
+      "name": "To do",
+      "user": 0,
+      "id": 1,
+      "starred": false,
+      "created": "2021-10-18"
+    },
+    {
+      "name": "In progress",
+      "user": 0,
+      "id": 2,
+      "starred": true,
+      "created": "2021-10-18"
+    },
+    {
+      "name": "QA",
+      "user": 0,
+      "id": 3,
+      "starred": false,
+      "created": "2021-10-18",
+      "lists" : {
+          "boardId": 3,
+          "title": "new list",
+          "id": 1,
+          "created": "2021-10-18"
+      },
+      "tasks": [
+        {
+          "boardId": 3,
+          "description": "",
+          "completed": false,
+          "listId": 1,
+          "title": "Stubbing",
+          "id": 11,
+          "created": "2021-10-19",
+          "deadline": "2021-10-22"
+        },
+        {
+          "boardId": 3,
+          "description": "",
+          "completed": false,
+          "listId": 1,
+          "title": "Changing parts of response data",
+          "id": 22,
+          "created": "2021-10-19",
+          "deadline": "2021-10-22"
+        },
+        {
+          "boardId": 3,
+          "description": "",
+          "completed": false,
+          "listId": 1,
+          "title": "Intercepting",
+          "id": 33,
+          "created": "2021-10-19",
+          "deadline": "2021-10-22"
+        }
+      ]
+    },
+    {
+      "name": "Done",
+      "user": 0,
+      "id": 4,
+      "starred": false,
+      "created": "2021-10-18"
+    }
+  ]
