@@ -1,5 +1,10 @@
 {
   "baseUrl": "http://localhost:3000",
   "viewportHeight": 500,
-  "viewportWidth": 700
+  "viewportWidth": 700,
+  "waitForAnimation" : false,
+  "env": {
+    "username" : "tamara.ruzic@vivifyideas.com",
+    "password" : "Test1234!"
+  }
 }
