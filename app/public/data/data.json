@@ -1,73 +1,20 @@
 {
   "boards": [
     {
-      "name": "bb",
-      "user": 0,
-      "id": 50910891104,
+      "name": "Board",
+      "user": 1,
+      "id": 910155242,
       "starred": false,
-      "created": "2021-10-18"
-    },
-    {
-      "name": "another board",
-      "user": 0,
-      "id": 33449793020,
-      "starred": true,
-      "created": "2021-10-18"
+      "created": "2021-10-23"
     }
   ],
-  "tasks": [
+  "tasks": [],
+  "users": [
     {
-      "boardId": 50910891104,
-      "description": "",
-      "completed": false,
-      "listId": 30997562091,
-      "title": "task",
-      "id": 48072558951,
-      "created": "2021-10-18",
-      "deadline": "2021-10-21"
-    },
-    {
-      "boardId": 50910891104,
-      "description": "",
-      "completed": false,
-      "listId": 30997562091,
-      "title": "jhgj",
-      "id": 47398105454,
-      "created": "2021-10-18",
-      "deadline": "2021-10-21"
+      "email": "tamara.ruzic@vivifyideas.com",
+      "password": "$2a$10$gxDFsL82iIhF.1tx/cnKKuT6FiCqWYF1KzfVmbXLpE4TzYboUaCDC",
+      "id": 1
     }
   ],
-  "users": [],
-  "lists": [
-    {
-      "boardId": 50910891104,
-      "title": "ll",
-      "id": 30997562091,
-      "created": "2021-10-18"
-    },
-    {
-      "boardId": 50910891104,
-      "title": "d",
-      "id": 27061210274,
-      "created": "2021-10-18"
-    },
-    {
-      "boardId": 50910891104,
-      "title": "new list",
-      "id": 67011907480,
-      "created": "2021-10-18"
-    },
-    {
-      "boardId": 50910891104,
-      "title": "list",
-      "id": 45570489752,
-      "created": "2021-10-18"
-    },
-    {
-      "boardId": 33449793020,
-      "title": "g",
-      "id": 37353563665,
-      "created": "2021-10-19"
-    }
-  ]
+  "lists": []
 }
